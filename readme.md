@@ -7,3 +7,12 @@
 
 
 gulp serve
+
+
+
+//
+git init
+git add -A
+git commit -a -m "message"
+git remote add origin https://github.com/prashanthjs/code_challenge.git
+git push -u origin master
